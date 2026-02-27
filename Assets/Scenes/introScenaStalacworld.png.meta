@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 673c477ead0419e4c91506d14125fb47
+guid: 51f7a6650f9cfe84e8f7b05aab1ad787
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6747712605649005896
-    second: jeskynePixelArt_0
+      213: -2002348085870270998
+    second: introScenaStalacworld_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jeskynePixelArt_0
+      name: introScenaStalacworld_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84d622a2dd0b4ad50800000000000000
-      internalID: 6747712605649005896
+      spriteID: ae5e409560b3634e0800000000000000
+      internalID: -2002348085870270998
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      jeskynePixelArt_0: 6747712605649005896
+      introScenaStalacworld_0: -2002348085870270998
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
