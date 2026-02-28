@@ -41,8 +41,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: New Layer 1
-    uniqueID: 2406269535
+  - name: diamanty
+    uniqueID: 618407513
+    locked: 0
+  - name: player
+    uniqueID: 2454097419
+    locked: 0
+  - name: UI
+    uniqueID: 1702185541
     locked: 0
   m_RenderingLayers:
   - Default
