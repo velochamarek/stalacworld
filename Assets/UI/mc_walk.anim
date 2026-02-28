@@ -719,11 +719,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-<<<<<<< HEAD
     m_StopTime: 14.983334
-=======
-    m_StopTime: 16.733334
->>>>>>> d7a4caf0c6274351422a31eed27db72f26cb49d7
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
