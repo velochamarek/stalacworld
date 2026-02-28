@@ -1,23 +1,32 @@
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance;
+    public static GameManager Instance;
 
-    public int diamondsCollected = 0;
-    public int totalDiamonds = 3;
-
-    public TextMeshProUGUI diamondText;
+    public Text diamondText;
+    private int diamonds = 0;
 
     private void Awake()
     {
-        instance = this;
+        Instance = this;
+        UpdateUI();
     }
 
     public void AddDiamond()
     {
-        diamondsCollected++;
-        diamondText.text = diamondsCollected + "/" + totalDiamonds;
+        diamonds++;
+        UpdateUI();
+
+        if (diamonds >= 3)
+        {
+            Debug.Log("Quest splnìn!");
+        }
+    }
+
+    private void UpdateUI()
+    {
+        diamondText.text = diamonds + "/3";
     }
 }
