@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: bacb3854f4a5bbe43b77ec9fe976f3ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8712141267263708092
+    second: ButtonRuins1_0
+  - first:
+      213: -8459314545431699670
+    second: ButtonRuins1_1
+  - first:
+      213: -4096337867738941498
+    second: ButtonRuins1_2
+  - first:
+      213: 1745849477419410283
+    second: ButtonRuins1_3
+  - first:
+      213: -6766934085939071211
+    second: ButtonRuins1_4
+  - first:
+      213: 6003935465022585815
+    second: ButtonRuins1_5
+  - first:
+      213: 6889988602600455985
+    second: ButtonRuins1_6
+  - first:
+      213: 6452348019410928475
+    second: ButtonRuins1_7
+  - first:
+      213: -6233361163849316412
+    second: ButtonRuins1_8
+  - first:
+      213: 2413245826554419421
+    second: ButtonRuins1_9
+  - first:
+      213: 3722290911656210179
+    second: ButtonRuins1_10
+  - first:
+      213: 207258554378290409
+    second: ButtonRuins1_11
+  - first:
+      213: -3984651721006303983
+    second: ButtonRuins1_12
+  - first:
+      213: 1162227329893416144
+    second: ButtonRuins1_13
+  - first:
+      213: 4232306690990102171
+    second: ButtonRuins1_14
+  - first:
+      213: -1753621311203538058
+    second: ButtonRuins1_15
+  - first:
+      213: 986576290705666422
+    second: ButtonRuins1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonRuins1_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 28
+        width: 227
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444a9b32da1481780800000000000000
+      internalID: -8712141267263708092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 674
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f9f348d3a7a9a80800000000000000
+      internalID: -8459314545431699670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 515
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c77071a962e627c0800000000000000
+      internalID: -4096337867738941498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 354
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a2ec89d08a3810800000000000000
+      internalID: 1745849477419410283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177e153d450712a0800000000000000
+      internalID: -6766934085939071211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 666
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db7a07ce73425350800000000000000
+      internalID: 6003935465022585815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 650
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7d7c11282e9f50800000000000000
+      internalID: 6889988602600455985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b530f2076585b8950800000000000000
+      internalID: 6452348019410928475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 298
+        width: 253
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7cb081c07ae79a0800000000000000
+      internalID: -6233361163849316412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 29
+        width: 555
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd858771b429d7120800000000000000
+      internalID: 2413245826554419421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_10
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 300
+        width: 127
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30feee3dcdb38a330800000000000000
+      internalID: 3722290911656210179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_11
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 28
+        width: 295
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4016e9e8450e200800000000000000
+      internalID: 207258554378290409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_12
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 780
+        width: 185
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11535cf0f5ca3b8c0800000000000000
+      internalID: -3984651721006303983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_13
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 534
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc3c8a499f012010800000000000000
+      internalID: 1162227329893416144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_14
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 226
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9659f0038c2cba30800000000000000
+      internalID: 4232306690990102171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_15
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 180
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b882365b2e9a7e0800000000000000
+      internalID: -1753621311203538058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRuins1_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 29
+        width: 522
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717557c8e501bd00800000000000000
+      internalID: 986576290705666422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ButtonRuins1_0: -8712141267263708092
+      ButtonRuins1_1: -8459314545431699670
+      ButtonRuins1_10: 3722290911656210179
+      ButtonRuins1_11: 207258554378290409
+      ButtonRuins1_12: -3984651721006303983
+      ButtonRuins1_13: 1162227329893416144
+      ButtonRuins1_14: 4232306690990102171
+      ButtonRuins1_15: -1753621311203538058
+      ButtonRuins1_16: 986576290705666422
+      ButtonRuins1_2: -4096337867738941498
+      ButtonRuins1_3: 1745849477419410283
+      ButtonRuins1_4: -6766934085939071211
+      ButtonRuins1_5: 6003935465022585815
+      ButtonRuins1_6: 6889988602600455985
+      ButtonRuins1_7: 6452348019410928475
+      ButtonRuins1_8: -6233361163849316412
+      ButtonRuins1_9: 2413245826554419421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

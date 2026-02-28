@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: c81bf1a58a5edbb4b85e2608aebf01cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7600734999914630820
+    second: MinesButton1_0
+  - first:
+      213: -6518575106897410642
+    second: MinesButton1_1
+  - first:
+      213: 3416527995525941393
+    second: MinesButton1_2
+  - first:
+      213: 1232963054262821850
+    second: MinesButton1_3
+  - first:
+      213: -6667433925941443636
+    second: MinesButton1_4
+  - first:
+      213: 7746501232772088295
+    second: MinesButton1_5
+  - first:
+      213: 303235208730038908
+    second: MinesButton1_6
+  - first:
+      213: 6101985999513667446
+    second: MinesButton1_7
+  - first:
+      213: -4004558943357592375
+    second: MinesButton1_8
+  - first:
+      213: -785905677611046698
+    second: MinesButton1_9
+  - first:
+      213: 320221772821693337
+    second: MinesButton1_10
+  - first:
+      213: 9162348136142262709
+    second: MinesButton1_11
+  - first:
+      213: 2604267478878605076
+    second: MinesButton1_12
+  - first:
+      213: -6122005621484614026
+    second: MinesButton1_13
+  - first:
+      213: 6127676713223395591
+    second: MinesButton1_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinesButton1_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 28
+        width: 397
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4ac5463c3b7960800000000000000
+      internalID: 7600734999914630820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1002
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea50da72a7e5985a0800000000000000
+      internalID: -6518575106897410642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 980
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19840824c12f96f20800000000000000
+      internalID: 3416527995525941393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 650
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad324868d5d5c1110800000000000000
+      internalID: 1232963054262821850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc34fd08b248873a0800000000000000
+      internalID: -6667433925941443636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1818714d9118b60800000000000000
+      internalID: 7746501232772088295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 267
+        width: 312
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72deb3d0de453400800000000000000
+      internalID: 303235208730038908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 29
+        width: 200
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6774b65dfeb9ea450800000000000000
+      internalID: 6101985999513667446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_8
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 788
+        width: 617
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9e0babd2fc68c0800000000000000
+      internalID: -4004558943357592375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e70b33f6e715f0800000000000000
+      internalID: -785905677611046698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 29
+        width: 264
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993026a7108a17400800000000000000
+      internalID: 320221772821693337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 28
+        width: 227
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d83be513372f70800000000000000
+      internalID: 9162348136142262709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_12
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 180
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f49aa5977342420800000000000000
+      internalID: 2604267478878605076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_13
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0772b2544a0ba0800000000000000
+      internalID: -6122005621484614026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinesButton1_14
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 28
+        width: 478
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7091d1e3181e90550800000000000000
+      internalID: 6127676713223395591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MinesButton1_0: 7600734999914630820
+      MinesButton1_1: -6518575106897410642
+      MinesButton1_10: 320221772821693337
+      MinesButton1_11: 9162348136142262709
+      MinesButton1_12: 2604267478878605076
+      MinesButton1_13: -6122005621484614026
+      MinesButton1_14: 6127676713223395591
+      MinesButton1_2: 3416527995525941393
+      MinesButton1_3: 1232963054262821850
+      MinesButton1_4: -6667433925941443636
+      MinesButton1_5: 7746501232772088295
+      MinesButton1_6: 303235208730038908
+      MinesButton1_7: 6101985999513667446
+      MinesButton1_8: -4004558943357592375
+      MinesButton1_9: -785905677611046698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
