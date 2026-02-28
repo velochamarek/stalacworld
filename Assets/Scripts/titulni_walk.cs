@@ -4,6 +4,7 @@ using System.Collections;
 public class TitulniPanacek : MonoBehaviour
 {
     public float rychlost = 2f;
+    public Vector2 start = new Vector2(26f, -28f);
     public Vector2 cil = new Vector2(16f, -8f);
     public float delayPoZmizeni = 2f;
 
@@ -12,7 +13,8 @@ public class TitulniPanacek : MonoBehaviour
 
     void Start()
     {
-        startPosition = transform.position;
+        startPosition = new Vector3(start.x, start.y, transform.position.z);
+        transform.position = startPosition;
         startScale = transform.localScale;
         StartCoroutine(PohybovaSmycka());
     }
