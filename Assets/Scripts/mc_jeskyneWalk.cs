@@ -3,13 +3,24 @@ using UnityEngine;
 public class mc_jeskyneWalk : MonoBehaviour
 {
     public float speed = 3f;
-    public Vector2 startPoint = new Vector2(-33f, -27f);
-    public Vector2 endPoint = new Vector2(-4.5f, -10f);
+    public Vector2 startPoint = new Vector2(-64f, -61f);
+    public Vector2 endPoint = new Vector2(-8f, -17f);
 
     private bool hasReachedEnd;
 
     void Start()
     {
+        Vector3 current = transform.position;
+        transform.position = new Vector3(startPoint.x, startPoint.y, current.z);
+    }
+
+    void OnValidate()
+    {
+        if (Application.isPlaying)
+        {
+            return;
+        }
+
         Vector3 current = transform.position;
         transform.position = new Vector3(startPoint.x, startPoint.y, current.z);
     }

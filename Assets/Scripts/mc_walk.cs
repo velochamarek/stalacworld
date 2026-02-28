@@ -2,14 +2,25 @@ using UnityEngine;
 
 public class mc_walk : MonoBehaviour
 {
-    public float speed = 3f;
-    public Vector2 startPoint = new Vector2(27f, -16f);
-    public Vector2 endPoint = new Vector2(77f, -17f);
+    public float speed = 10f;
+    public Vector2 startPoint = new Vector2(53f, -48f);
+    public Vector2 endPoint = new Vector2(138f, -48f);
 
     private bool hasReachedEnd;
 
     void Start()
     {
+        Vector3 position = transform.position;
+        transform.position = new Vector3(startPoint.x, startPoint.y, position.z);
+    }
+
+    void OnValidate()
+    {
+        if (Application.isPlaying)
+        {
+            return;
+        }
+
         Vector3 position = transform.position;
         transform.position = new Vector3(startPoint.x, startPoint.y, position.z);
     }
