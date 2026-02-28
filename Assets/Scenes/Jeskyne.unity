@@ -455,8 +455,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   speed: 3
-  startPoint: {x: -33, y: -27}
-  endPoint: {x: -4, y: -10}
+  startPoint: {x: -64, y: -61}
+  endPoint: {x: -8, y: -17}
 --- !u!212 &835653450
 SpriteRenderer:
   serializedVersion: 2
@@ -526,8 +526,8 @@ Transform:
   m_GameObject: {fileID: 835653447}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -34.8, y: -23.6, z: 0}
-  m_LocalScale: {x: 29.438683, y: 29.998035, z: 36.321632}
+  m_LocalPosition: {x: -73.6, y: -61.4, z: 0}
+  m_LocalScale: {x: 74.824295, y: 76.246, z: 92.31869}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
