@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\veloc\\stalacworld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|c:\\users\\veloc\\stalacworld\\assets\\scripts\\fademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|c:\\users\\veloc\\stalacworld\\assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FadeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|C:\\Users\\veloc\\stalacworld\\assets\\scripts\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +31,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FadeManager.cs",
-              "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeManager.cs",
-              "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FadeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartGame.cs",
+              "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\StartGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T03:35:46.002Z",
+              "WhenOpened": "2026-02-28T03:43:54.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FadeManager.cs",
+              "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeManager.cs",
+              "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FadeManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:35:46.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ExitGame.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\ExitGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExitGame.cs",
@@ -47,12 +62,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ExitGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T00:53:15.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T00:53:15.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IntroController.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\IntroController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IntroController.cs",
@@ -60,8 +74,7 @@
               "RelativeToolTip": "Assets\\Scripts\\IntroController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T20:18:27.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T20:18:27.416Z"
             }
           ]
         }
