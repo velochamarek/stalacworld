@@ -7,9 +7,10 @@ public class DialogueTrigger : MonoBehaviour
     public GameObject dialog2;
     public GameObject defaultDialog;
 
+    public GameObject minesButton;  
+
     public GameObject player;
 
-    // 🔥 TADY nastavíš cílovou pozici
     public Vector2 targetPosition = new Vector2(0f, 24f);
 
     private bool hasTriggered;
@@ -18,6 +19,7 @@ public class DialogueTrigger : MonoBehaviour
     {
         HideDialogue(dialog1);
         HideDialogue(dialog2);
+        HideDialogue(minesButton);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -36,7 +38,6 @@ public class DialogueTrigger : MonoBehaviour
                 defaultDialog.SetActive(false);
             }
 
-            // Vypneme pohyb hráče
             mc_movement movement = collision.GetComponent<mc_movement>();
             if (movement != null)
             {
@@ -51,6 +52,7 @@ public class DialogueTrigger : MonoBehaviour
     {
         HideDialogue(dialog1);
         HideDialogue(dialog2);
+        HideDialogue(minesButton);
 
         if (dialog1 != null)
         {
@@ -71,14 +73,18 @@ public class DialogueTrigger : MonoBehaviour
         yield return new WaitForSeconds(5f);
 
         HideDialogue(dialog2);
+
+        if (minesButton != null)
+        {
+            MoveDialogueToTarget(minesButton);
+            minesButton.SetActive(true);
+        }
     }
 
     private void HideDialogue(GameObject dialog)
     {
         if (dialog == null)
-        {
             return;
-        }
 
         dialog.SetActive(false);
     }
@@ -86,9 +92,7 @@ public class DialogueTrigger : MonoBehaviour
     private void MoveDialogueToTarget(GameObject dialog)
     {
         if (dialog == null)
-        {
             return;
-        }
 
         RectTransform rectTransform = dialog.GetComponent<RectTransform>();
         if (rectTransform != null)
