@@ -7,19 +7,48 @@ public class DialogueTrigger : MonoBehaviour
     public GameObject dialog2;
     public GameObject defaultDialog;
 
-    public GameObject minesButton;  
-
+    public GameObject minesButton;
     public GameObject player;
 
     public Vector2 targetPosition = new Vector2(0f, 24f);
 
     private bool hasTriggered;
 
+    // Kamera pro omezení pohybu
+    public Camera mainCamera;
+
     private void Awake()
     {
         HideDialogue(dialog1);
         HideDialogue(dialog2);
         HideDialogue(minesButton);
+
+        if (mainCamera == null)
+            mainCamera = Camera.main;
+    }
+
+    private void Update()
+    {
+        if (player != null && mainCamera != null)
+            ClampPlayerToCamera();
+    }
+
+    private void ClampPlayerToCamera()
+    {
+        float camHeight = mainCamera.orthographicSize;
+        float camWidth = camHeight * mainCamera.aspect;
+
+        Vector3 pos = player.transform.position;
+
+        pos.x = Mathf.Clamp(pos.x,
+            mainCamera.transform.position.x - camWidth,
+            mainCamera.transform.position.x + camWidth);
+
+        pos.y = Mathf.Clamp(pos.y,
+            mainCamera.transform.position.y - camHeight,
+            mainCamera.transform.position.y + camHeight);
+
+        player.transform.position = pos;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
