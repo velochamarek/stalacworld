@@ -6,6 +6,8 @@ public class mc_jeskyneWalk : MonoBehaviour
     public Vector2 startPoint = new Vector2(-64f, -61f);
     public Vector2 endPoint = new Vector2(-8f, -17f);
 
+    public float shrinkSpeed = 0.2f;
+
     private bool hasReachedEnd;
 
     void Start()
@@ -17,9 +19,7 @@ public class mc_jeskyneWalk : MonoBehaviour
     void OnValidate()
     {
         if (Application.isPlaying)
-        {
             return;
-        }
 
         Vector3 current = transform.position;
         transform.position = new Vector3(startPoint.x, startPoint.y, current.z);
@@ -28,9 +28,11 @@ public class mc_jeskyneWalk : MonoBehaviour
     void Update()
     {
         if (hasReachedEnd)
-        {
             return;
-        }
+
+        transform.localScale -= Vector3.one * shrinkSpeed * Time.deltaTime;
+        if (transform.localScale.x < 0.01f)
+            transform.localScale = Vector3.one * 0.01f;
 
         Vector3 target = new Vector3(endPoint.x, endPoint.y, transform.position.z);
         transform.position = Vector3.MoveTowards(transform.position, target, speed * Time.deltaTime);
