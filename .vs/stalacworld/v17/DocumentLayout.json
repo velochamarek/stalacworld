@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\veloc\\stalacworld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|c:\\users\\veloc\\stalacworld\\assets\\scripts\\endscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|c:\\users\\veloc\\stalacworld\\assets\\scripts\\scenespecificmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenespecificmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|C:\\Users\\veloc\\stalacworld\\assets\\scripts\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|c:\\users\\veloc\\stalacworld\\assets\\scripts\\diamant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|C:\\Users\\veloc\\stalacworld\\assets\\scripts\\diamant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diamant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,8 +55,8 @@
       "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veloc\\stalacworld\\assets\\scripts\\diamondmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\diamondmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\DiamondManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DiamondManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "EndSceneController.cs",
+              "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\EndSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndSceneController.cs",
+              "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\EndSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndSceneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:08:48.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneSpecificMusic.cs",
+              "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\SceneSpecificMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneSpecificMusic.cs",
+              "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\SceneSpecificMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneSpecificMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:38:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DiamondManager.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\DiamondManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DiamondManager.cs",
@@ -74,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DialogueTrigger.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\DialogueTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueTrigger.cs",
@@ -82,12 +116,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DialogueTrigger.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAAuwIgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T00:44:37.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T00:44:37.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "mc_jeskyneWalk.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\mc_jeskyneWalk.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\mc_jeskyneWalk.cs",
@@ -99,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MusicManager.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\MusicManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
@@ -111,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Diamant.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\Diamant.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Diamant.cs",
@@ -119,12 +152,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Diamant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T16:29:50.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T16:29:50.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -132,12 +164,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAA8wEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T13:40:46.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T13:40:46.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -149,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SceneChanger.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\SceneChanger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
@@ -161,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StartGame.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\StartGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StartGame.cs",
@@ -173,18 +204,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FadeManager.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FadeManager.cs",
               "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\FadeManager.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T03:35:46.002Z"
+              "WhenOpened": "2026-02-28T03:35:46.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ExitGame.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\ExitGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExitGame.cs",
@@ -196,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IntroController.cs",
               "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\IntroController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IntroController.cs",
