@@ -3,17 +3,18 @@ using UnityEngine.SceneManagement;
 
 public class EndSceneController : MonoBehaviour
 {
-    public AudioSource musicSource;     // hudba z You Win scény
-    public string nextSceneName = "MainMenu";  // cílová scéna
+    public string nextSceneName = "MainMenu";
+    public float delay = 10f;   // 10 sekund
 
-    // Tuhle funkci zavolá animace na konci (Animation Event)
+    // Tuhle funkci zavolá Animation Event
     public void OnAnimationFinished()
     {
-        if (musicSource != null)
-        {
-            musicSource.Stop();
-        }
+        StartCoroutine(LoadAfterDelay());
+    }
 
+    private System.Collections.IEnumerator LoadAfterDelay()
+    {
+        yield return new WaitForSeconds(delay);
         SceneManager.LoadScene(nextSceneName);
     }
 }

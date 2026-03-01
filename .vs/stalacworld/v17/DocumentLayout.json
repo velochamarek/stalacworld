@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\veloc\\stalacworld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|c:\\users\\veloc\\stalacworld\\assets\\scripts\\endscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\veloc\\stalacworld\\assets\\scripts\\endscenecontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\endscenecontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|c:\\users\\veloc\\stalacworld\\assets\\scripts\\scenespecificmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|C:\\Users\\veloc\\stalacworld\\assets\\scripts\\scenespecificmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13DCCD69-DDA2-0D51-6AD4-D782315A362F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenespecificmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -71,14 +71,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EndSceneController.cs",
-              "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\EndSceneController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EndSceneController.cs",
-              "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\EndSceneController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EndSceneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "EndSceneControllerr.cs",
+              "DocumentMoniker": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\EndSceneControllerr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndSceneControllerr.cs",
+              "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\EndSceneControllerr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndSceneControllerr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T08:08:48.824Z",
+              "WhenOpened": "2026-03-01T08:34:30.327Z",
               "EditorCaption": ""
             },
             {
@@ -89,10 +89,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneSpecificMusic.cs",
               "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\SceneSpecificMusic.cs",
               "RelativeToolTip": "Assets\\Scripts\\SceneSpecificMusic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T07:38:36.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T07:38:36.915Z"
             },
             {
               "$type": "Document",
@@ -211,8 +210,7 @@
               "ToolTip": "C:\\Users\\veloc\\stalacworld\\Assets\\Scripts\\FadeManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\FadeManager.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T03:35:46.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T03:35:46.002Z"
             },
             {
               "$type": "Document",
