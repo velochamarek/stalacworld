@@ -24,14 +24,26 @@ EditorBuildSettings:
     path: Assets/Scenes/Mapa.unity
     guid: fe4bc030af8db6d44bc55d4f6c0a2e16
   - enabled: 1
-    path: Assets/Scenes/mapy/mines.unity
-    guid: 789673aef99b24b4ba9af7ef3d0a373e
-  - enabled: 0
-    path: Assets/Scenes/mapy/ruins.unity
-    guid: 53d65122b1ab64a4fa1de16609f08366
-  - enabled: 1
     path: Assets/Scenes/mapy/vesnice.unity
     guid: fb6388e95ecdb364183d8bd1e2ae4641
+  - enabled: 1
+    path: Assets/Scenes/mapy/mines.unity
+    guid: 789673aef99b24b4ba9af7ef3d0a373e
+  - enabled: 1
+    path: Assets/Scenes/mapy/EndingScene1.unity
+    guid: c46d61520c9fbcb43913c3fb8d3aef95
+  - enabled: 1
+    path: Assets/Scenes/mapy/EndingScene2.unity
+    guid: 6c419717c0b3942478a7b679930bec35
+  - enabled: 1
+    path: Assets/Scenes/mapy/EndingScene3.unity
+    guid: a32f3e906d5388a42960f6814529f42f
+  - enabled: 1
+    path: Assets/Scenes/mapy/EndingScene4.unity
+    guid: c2f750276cf6c6746b822ef85e954a8c
+  - enabled: 1
+    path: Assets/Scenes/mapy/EndingScene5.unity
+    guid: 57e47dbc55431be46b371007aabf5a0a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100,
       type: 3}
