@@ -1,20 +1,12 @@
 using UnityEngine;
 
-public class mc_walk : MonoBehaviour
+public class mc_walk_zpet : MonoBehaviour
 {
     public float speed = 10f;
     public Vector2 startPoint = new Vector2(53f, -48f);
     public Vector2 endPoint = new Vector2(138f, -48f);
 
     private bool hasReachedEnd;
-    private SceneChanger sceneChanger;
-    private SceneChangerBon sceneChangerBon;
-
-    void Awake()
-    {
-        sceneChanger = GetComponent<SceneChanger>();
-        sceneChangerBon = GetComponent<SceneChangerBon>();
-    }
 
     void Start()
     {
@@ -47,19 +39,6 @@ public class mc_walk : MonoBehaviour
             Vector3 position = transform.position;
             transform.position = new Vector3(endPoint.x, endPoint.y, position.z);
             hasReachedEnd = true;
-
-            if (sceneChanger != null)
-            {
-                sceneChanger.GoToNextScene();
-                return;
-            }
-
-            if (sceneChangerBon != null)
-            {
-                sceneChangerBon.GoToNextScene();
-                return;
-            }
-
             gameObject.SetActive(false);
         }
     }

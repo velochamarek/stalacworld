@@ -9,6 +9,12 @@ public class mc_jeskyneWalk : MonoBehaviour
     public float shrinkSpeed = 0.2f;
 
     private bool hasReachedEnd;
+    private SceneChanger sceneChanger;
+
+    void Awake()
+    {
+        sceneChanger = GetComponent<SceneChanger>();
+    }
 
     void Start()
     {
@@ -41,6 +47,13 @@ public class mc_jeskyneWalk : MonoBehaviour
         {
             transform.position = target;
             hasReachedEnd = true;
+
+            if (sceneChanger != null)
+            {
+                sceneChanger.GoToNextScene();
+                return;
+            }
+
             gameObject.SetActive(false);
         }
     }

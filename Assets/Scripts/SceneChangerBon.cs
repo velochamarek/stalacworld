@@ -2,10 +2,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-public class SceneChanger : MonoBehaviour
+public class SceneChangerBon : MonoBehaviour
 {
     public string nextScene;
     public float minimumFadeWaitSeconds = 0.25f;
+    public float bubbleTextAnimationDuration = 1f; // nová proměnná pro animaci textu
     public BubbleFade bubbleFade;
 
     private bool isTransitioning;
@@ -32,6 +33,13 @@ public class SceneChanger : MonoBehaviour
     {
         isTransitioning = true;
 
+        // Čekání na animaci textové bubliny
+        if (bubbleTextAnimationDuration > 0f)
+        {
+            yield return new WaitForSeconds(bubbleTextAnimationDuration);
+        }
+
+        // Spuštění fade efektu
         if (bubbleFade != null)
         {
             bubbleFade.FadeOut();
@@ -53,7 +61,7 @@ public class SceneChanger : MonoBehaviour
         {
             if (!Application.CanStreamedLevelBeLoaded(nextScene))
             {
-                Debug.LogError("SceneChanger: Scene '" + nextScene + "' není v Build Settings.", this);
+                Debug.LogError("SceneChangerBon: Scene '" + nextScene + "' není v Build Settings.", this);
                 return;
             }
 

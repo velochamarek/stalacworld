@@ -38,10 +38,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/mapy/EndingScene3.unity
     guid: a32f3e906d5388a42960f6814529f42f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/mapy/EndingScene4.unity
     guid: c2f750276cf6c6746b822ef85e954a8c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/mapy/EndingScene5.unity
     guid: 57e47dbc55431be46b371007aabf5a0a
   m_configObjects:
