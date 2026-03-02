@@ -27,5 +27,7 @@ https://velochamarek.itch.io/stalacworld
 
 ## Autoři
 Hoang Lan Anh
+
 Nela Schusterová
+
 Marek Velocha
